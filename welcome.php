@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>connection ress</h1>
+    <h1>registration succes</h1>
 </body>
 </html>
