@@ -28,6 +28,7 @@ if (isset($_POST['submit'])) {
         include("index.php");
         exit();
     }
+    
 
     $email = mysqli_real_escape_string($conn, $email);
     $sql = "SELECT * FROM register WHERE email='$email'";
